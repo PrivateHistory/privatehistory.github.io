@@ -157,7 +157,7 @@ html {
 .form__input {
     height: 100%;
     width: 100%;
-    padding: 28px 16px 8px;
+    padding: 28px 52px 8px 16px;
     border-radius: 8px;
     color: #000000;
     line-height: 1.33;
